@@ -1,1 +1,4 @@
-# Repositorio _Programação de Aplicativos_ com Python!
+# Programação de Aplicativos com Python!
+
+### #amoProgramacao
+### #amoPython
