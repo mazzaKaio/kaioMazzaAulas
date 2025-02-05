@@ -4,3 +4,4 @@
 # Gosto de: Programação, outros idiomas, The Mentalist, Animes, Java, Java e Java
 # Dr. House - CS 1.6 <3
 # Natural de SP - Suzano
+# Eu amo a aula de Zumba mas amo mesmo a de Programação de Aplicativos e o Prof Sergio
