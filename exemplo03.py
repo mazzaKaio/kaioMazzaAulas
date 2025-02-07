@@ -2,4 +2,4 @@
 salario = 1500
 aumento = salario + (salario * 0.05)
 print("Salario base: ", salario)
-print("Salario com aumento de 5%: ", aumento)
+print("Salario + 5%: ", aumento)
