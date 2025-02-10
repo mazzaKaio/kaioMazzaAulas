@@ -1,4 +1,4 @@
-email = "SegioLuiz@gmail.com"
+email = "mazzakaio@gmail.com"
 
 print("\nPegando posição ZERO no email atribuido:")
 print(email[0])
