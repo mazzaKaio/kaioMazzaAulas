@@ -3,4 +3,4 @@ faturamento = 2000
 custo = 500
 lucro = faturamento - custo
 
-print("O fundamento da loja foi de: " + str(faturamento))
+print("O faturamento da loja foi de: " + str(faturamento) + "\nO custo foi de: " + str(custo) + "\nO lucro foi de: " + str(lucro))
