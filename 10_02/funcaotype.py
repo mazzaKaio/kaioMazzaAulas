@@ -9,3 +9,5 @@ print("Para varivael fundamento que recebeu '1.000' o tipo é:", type(faturament
 
 bonus = True
 print("Para varivael bonus que recebeu 'True' o tipo é:", type(bonus))
+
+print(dir(str))
