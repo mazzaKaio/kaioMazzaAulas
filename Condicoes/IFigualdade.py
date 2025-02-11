@@ -4,4 +4,4 @@ custo = 200
 if (faturamento == custo):
     print("IGUAL!")
 else:
-    print("DIFERENTE!")
+    print("NÃO É IGUAL!")
