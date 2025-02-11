@@ -5,5 +5,4 @@ if notaAluno >= 7:
 else:
     if notaAluno >= 5:
         print("O aluno está de RECUPERAÇÃO!")
-    else:
     print("O aluno foi REPROVADO!")
