@@ -8,4 +8,4 @@ for venda in vendas:
         bateramMeta += 1
 
 numFuncionarios = len(vendas)
-print("O percentual de funcionários que bateram a meta foi de {:.1%}".format(bateramMeta/numFuncionarios))
+print("O percentual de funcionários que bateram a meta foi de {:.1}".format(bateramMeta/numFuncionarios))
