@@ -29,7 +29,7 @@ nome = "Kaio"
 print(nome.replace("K", "C"), "\n")
 
 # SEPARA O TEXTO string BASEADO EM ALGUM CARACTERE INDICADO
-nome = "Kaio & Anny"
+nome = "Kaio & Yaemil"
 print(nome.split("&"), "\n")
 
 # COLOCAR TODAS AS LETRAS INICIAS EM maiscucula
